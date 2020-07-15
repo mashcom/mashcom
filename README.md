@@ -1,7 +1,16 @@
-# Hi Nerds
+<h1 align="center">Choo</h1>
 
-<!--
-**mashcom/mashcom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
+  :steam_locomotive::train::train::train::train::train:
+</div>
+<div align="center">
+  <strong>Fun functional programming</strong>
+</div>
+<div align="center">
+  A <code>4kb</code> framework for creating sturdy frontend applications
+</div>
+
+<br />
 
 Here are some ideas to get you started:
 
