@@ -1,4 +1,4 @@
-![Hey there, I'm Blessing. I'm a software developer, a maker and infosec enthusiast. Check out my work](https://miro.medium.com/max/1360/1*IRGHmiGsa16stedQvIaZfw.gif)
+![Hey there, I'm Blessing. I'm a software developer Check out my work](https://miro.medium.com/max/1360/1*IRGHmiGsa16stedQvIaZfw.gif)
 
 <!--
 **mashcom/mashcom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
