@@ -1,25 +1,11 @@
-<h1 align="center">Choo</h1>
+<h1 align="center">Hi, I'm Blessing</h1>
 
 <div align="center">
   :steam_locomotive::train::train::train::train::train:
 </div>
 <div align="center">
-  <strong>Fun functional programming</strong>
+  <strong>I approach code in 2 ways - Ready, fire, aim: the fast approach to software development. Ready, aim, aim, aim, aim: the slow approach to software development</strong>
 </div>
-<div align="center">
-  A <code>4kb</code> framework for creating sturdy frontend applications
-</div>
+
 
 <br />
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
