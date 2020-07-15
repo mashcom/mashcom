@@ -3,7 +3,7 @@
 <div align="center">
   :steam_locomotive::train::train::train::train::train:
 </div>
-<div align="center">
+<div>
   <strong>I approach code in 2 ways</strong>
   <ul>
     <li>Ready, fire, aim: the fast approach to software development.</li>
