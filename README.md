@@ -8,7 +8,7 @@
   <ul>
     <li>Ready, fire, aim: the fast approach to software development.</li>
     <li>Ready, aim, aim, aim, aim: the slow approach to software development</li>
-    <li>Approach yevakomana vekwamudzviti</li>
+    <li><b>Approach yevakomana vekwamudzviti</b></li>
     </ul>
 </div>
 <img src="https://miro.medium.com/max/1600/0*C-cPP9D2MIyeexAT.gif"/>
